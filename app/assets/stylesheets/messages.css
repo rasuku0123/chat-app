@@ -113,18 +113,18 @@
 
 .form {
   background-color: #DDDDDD;
-  height: 90px;
+  height: 90px; 
   padding: 20px 40px;
   display:flex;
 }
 
-.form_box { 
+.form-input { 
   background-color: white;
   display: flex;
   width: 100%;
 }
 
-.text_form {
+.form-message {
   border: none;
   height: 50px;
   width: 100%;
